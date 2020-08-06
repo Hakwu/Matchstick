@@ -1,4 +1,4 @@
-Matchstick
+# Matchstick
 
 To play make and run the binary.
 
